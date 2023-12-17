@@ -1,1 +1,1 @@
-<model-viewer src="rodeo.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" auto-rotate> </model-viewer>
+<model-viewer src="Regalo para mi Abuela.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.png" shadow-intensity="1"> </model-viewer>
